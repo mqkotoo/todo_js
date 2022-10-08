@@ -47,3 +47,5 @@ const deleteFromIncompleteList = (target) => {
 document
   .getElementById("add-button")
   .addEventListener("click", () => onClickAdd());
+
+//ぜんぜんわかんねええ
